@@ -1,3 +1,5 @@
+# Author: Krems
+
 import random
 
 # insertion sort is faster then qsort on extremely small sizes
